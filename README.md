@@ -3,11 +3,11 @@ Bu Android uygulaması, Java kullanılarak Android Studio'da geliştirilmiştir.
 
 Özellikler:
 
-Yemek seçebilme.
+Yemek seçebilme,
 Sipariş verme ve onay SMS'i alma.
 
 Kullanılan Teknolojiler:
 
-Java
-Android Studio
-SMS Entegrasyonu
+Java,
+Android Studio,
+SMS Entegrasyonu.
