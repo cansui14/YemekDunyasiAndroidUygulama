@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Yemek_Dunyasi</string>
+
+
+
+
+        <string-array name="yemekler">
+        <item>Pizza Menü</item>
+        <item>Tavuk Burger Menü</item>
+        <item>İskender</item>
+        <item>Dürüm</item>
+        <item>Lahmacun</item>
+        </string-array>
+
+
+</resources>
